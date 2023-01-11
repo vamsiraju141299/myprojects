@@ -5,4 +5,4 @@ Hyperparameter tuning,
 Regularization, 
 ML Algos, 
 Brainfuck compiler using python, 
-Grammar evaluation compiler using java, 
+Grammar evaluation compiler using java.
